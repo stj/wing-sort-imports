@@ -1,0 +1,6 @@
+This is a inspired by the vim script sort-python-imports and adjusted to work under WingIDE
+
+Keep your imports tidy!
+This script allows you to sort python imports easily.
+
+Use CTRL-F12 and type `sort-imports` to fix imports in the beginning of currently edited file.
